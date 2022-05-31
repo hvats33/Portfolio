@@ -4,4 +4,4 @@
 
 # Digitealthy
 
-![UML Diagram ](./Uml.png)
+![UML Diagram ](./Uml.PNG)
